@@ -1,0 +1,13 @@
+C:\projetos\curso-git\AprendendoGitRepos\bin\Debug\netcoreapp3.1\AprendendoGitRepos.exe
+C:\projetos\curso-git\AprendendoGitRepos\bin\Debug\netcoreapp3.1\AprendendoGitRepos.deps.json
+C:\projetos\curso-git\AprendendoGitRepos\bin\Debug\netcoreapp3.1\AprendendoGitRepos.runtimeconfig.json
+C:\projetos\curso-git\AprendendoGitRepos\bin\Debug\netcoreapp3.1\AprendendoGitRepos.runtimeconfig.dev.json
+C:\projetos\curso-git\AprendendoGitRepos\bin\Debug\netcoreapp3.1\AprendendoGitRepos.dll
+C:\projetos\curso-git\AprendendoGitRepos\bin\Debug\netcoreapp3.1\AprendendoGitRepos.pdb
+C:\projetos\curso-git\AprendendoGitRepos\obj\Debug\netcoreapp3.1\AprendendoGitRepos.csprojAssemblyReference.cache
+C:\projetos\curso-git\AprendendoGitRepos\obj\Debug\netcoreapp3.1\AprendendoGitRepos.csproj.CoreCompileInputs.cache
+C:\projetos\curso-git\AprendendoGitRepos\obj\Debug\netcoreapp3.1\AprendendoGitRepos.AssemblyInfoInputs.cache
+C:\projetos\curso-git\AprendendoGitRepos\obj\Debug\netcoreapp3.1\AprendendoGitRepos.AssemblyInfo.cs
+C:\projetos\curso-git\AprendendoGitRepos\obj\Debug\netcoreapp3.1\AprendendoGitRepos.dll
+C:\projetos\curso-git\AprendendoGitRepos\obj\Debug\netcoreapp3.1\AprendendoGitRepos.pdb
+C:\projetos\curso-git\AprendendoGitRepos\obj\Debug\netcoreapp3.1\AprendendoGitRepos.genruntimeconfig.cache

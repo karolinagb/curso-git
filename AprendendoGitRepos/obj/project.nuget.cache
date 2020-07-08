@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dWN4fB4m7hR7BpsIoTfpZZMhTD7G5SNPcs6xlCuK1EcuaBl+puQF/fUuKRGF5S4QcpPSlEEv5Nv78MUR/aOiNg==",
+  "success": true,
+  "projectFilePath": "C:\\projetos\\curso-git\\AprendendoGitRepos\\AprendendoGitRepos.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karol\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
